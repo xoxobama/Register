@@ -1,4 +1,4 @@
-# Register
+# practice
 회원가입
 
 1. 회원가입
